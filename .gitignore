@@ -1,0 +1,26 @@
+# AI Hackathon Judge - Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data files (keep samples)
+data/leaderboard.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
